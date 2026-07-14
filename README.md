@@ -1,11 +1,5 @@
 # Code Assistant Application — Powered by CodeLlama (Llama2)
 
-
-## Acknowledgement
-A heartfelt thanks to  **[Krish Naik](https://github.com/krishnaik06)** for his exceptional educational content and mentorship, which played a pivotal role in bringing this project to life. His resources laid the foundation for this AI-driven coding assistant.
-
-<br>
-
 ## Project Overview
 This project is a **production-grade AI Coding Assistant**, engineered using [**Meta’s CodeLlama**](https://ollama.com/library/codellama), [**LangChain**](https://www.langchain.com/), and [**Gradio**](https://www.gradio.app/). It delivers an intelligent, context-aware coding experience that mimics real-time pair programming. The assistant not only generates accurate code but also maintains conversational memory to deliver consistent, relevant guidance across interactions.
 
